@@ -33,7 +33,8 @@ Data was cleaned and and stored in a file  `movie_data.csv` which details movie 
 
 ### Findings
 
-* **Identifying Top-Performing Genres.**
+**Identifying Top-Performing Genres.**
+  
 There are 20 Genres
 
 The most profitable genre is Adventure,followed by Action,Drama,Comedy,Animation respectively
@@ -42,7 +43,8 @@ The genre with the least revenue is News and Western and Musicals
 
 The studio should prioritize creating films in the profitable genres to increase their chances of commercial success.
 
-* **Understanding Target Audience Preferences.**
+**Understanding Target Audience Preferences.**
+  
 - Genre Popularity
 
 We analyze how different genres perform in terms of total gross revenue
@@ -60,16 +62,13 @@ The correlation coefficient of -0.29 suggests a weak negative relationship betwe
 - Audience Engagement
 
 We analyze the number of votes to gauge audience engagement with different genres,knowing which genres are popular will allow the studio and 
-
-distributors to tailor their marketing strategies,if a particular genre is trending, marketing campaigns can be focused on that genre to attract more
-
-viewers. 
+distributors to tailor their marketing strategies,if a particular genre is trending, marketing campaigns can be focused on that genre to attract more viewers. 
 
 Observation
 
 The Scify and Adventure genres are very popular this means that the studio should focus on these two when doing targeted marketing
 
-* **Analyzing Emerging Market Trends.**
+**Analyzing Emerging Market Trends.**
 - Runtime Analysis
   
 Investigated if there's a correlation between runtime and movie success through statistical methods.
