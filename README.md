@@ -1,6 +1,6 @@
 # Analysis for Maximizing Box Office Success in the Movie Industry
 ### Author: Loyce Tsuma
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![Screenshot 2024-07-24 133806](https://github.com/user-attachments/assets/a502a961-2319-4514-8c13-6f318b0a4646)
 
@@ -9,6 +9,7 @@
 
 The exploratory data analysis aims to identify successful movie genres and trends to provide actionable recommendations for a new movie studio, enhancing box office success.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Business Problem
 
 1.Identify Top Genres: Determine which movie genres (e.g., action, comedy, drama) are currently leading at the box office to prioritize film production for commercial success.
@@ -16,6 +17,8 @@ The exploratory data analysis aims to identify successful movie genres and trend
 2.Recognize Emerging Trends: Spot new or growing trends in the movie industry to capitalize on popular categories by developing relevant films.
 
 3.Understand Audience Preferences: Analyze audience demographics and movie-going habits to tailor the film slate to the preferences of core target audiences.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### The Data
 
@@ -28,6 +31,8 @@ The dataset contains 3025 records, each representing a movie id.
 The distinct column(unique identifier) in this dataframe is the `movie_id`
 
 Data was cleaned and and stored in a file  `movie_data.csv` which details movie details in columns  `genres`,`original_title`,`start_year`,`runtime_minutes`	`averagerating`,`numvotes`,`studio`,`domestic_gross` and `foreign_gross`.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Findings
 
@@ -103,7 +108,7 @@ BV,FOX,UNI,WB and Sony are the top 5 income generating studios this are the main
 
 We also note that 2019 posted the lowest revenue and this could be attributed to Covid 19 pandemic,Generally the movie industry has been on an upward trajectory commercially
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Recommendations
 
 1.To maximize commercial success, the new movie studio should prioritize creating films in top-performing genres like Adventure, Action, Drama, Comedy, and Animation
