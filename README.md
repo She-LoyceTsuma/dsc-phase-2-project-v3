@@ -106,7 +106,7 @@ Total Gross = −77,657,490+1,615,703×Runtime Minutes
 Observation
 BV,FOX,UNI,WB and Sony are the top 5 income generating studios this are the main competitors in the movie industry
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/f0c57f4e-2ffe-45ca-a270-0a7f0c9259d0">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f0c57f4e-2ffe-45ca-a270-0a7f0c9259d0">
 
 
 We also note that 2019 posted the lowest revenue and this could be attributed to Covid 19 pandemic,Generally the movie industry has been on an upward trajectory commercially
