@@ -47,7 +47,7 @@ The studio should prioritize creating films in the profitable genres to increase
 
 
 
-<img width="637" alt="image" src="https://github.com/user-attachments/assets/a64d4508-66a1-4e4a-884a-d232f0534220">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a64d4508-66a1-4e4a-884a-d232f0534220">
 
 **Understanding Target Audience Preferences.**
   
