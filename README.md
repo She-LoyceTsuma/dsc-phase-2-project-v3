@@ -42,7 +42,7 @@ The genre with the least revenue is News and Western and Musicals
 The studio should prioritize creating films in the profitable genres to increase their chances of commercial success.
 
 
-  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/a83d9903-b234-4e55-ac0b-f43107512cf9">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/a83d9903-b234-4e55-ac0b-f43107512cf9">
 
 
 
