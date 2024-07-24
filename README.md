@@ -1,14 +1,10 @@
 # Analysis for Maximizing Box Office Success in the Movie Industry
-
+### Author: Loyce Tsuma
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot 2024-07-24 133806](https://github.com/user-attachments/assets/a502a961-2319-4514-8c13-6f318b0a4646)
 
 
-
-
-
-### Author: Loyce Tsuma
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Overview
 
 The exploratory data analysis aims to identify successful movie genres and trends to provide actionable recommendations for a new movie studio, enhancing box office success.
@@ -47,13 +43,16 @@ The studio should prioritize creating films in the profitable genres to increase
 
 
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/a64d4508-66a1-4e4a-884a-d232f0534220">
+
 
 **Understanding Target Audience Preferences.**
   
 - Genre Popularity
 
 We analyze how different genres perform in terms of total gross revenue
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2fe3ad90-af8b-427a-9b3c-b323d545393c">
+
 
 - Corelation between rating and revenue
 
