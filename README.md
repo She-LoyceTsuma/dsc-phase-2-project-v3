@@ -1,6 +1,8 @@
 # Analysis for Maximizing Box Office Success in the Movie Industry
 
 
+![Screenshot 2024-07-24 133806](https://github.com/user-attachments/assets/a502a961-2319-4514-8c13-6f318b0a4646)
+
 
 
 
