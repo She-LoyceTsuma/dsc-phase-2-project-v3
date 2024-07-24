@@ -52,12 +52,14 @@ The studio should prioritize creating films in the profitable genres to increase
 
 We analyze how different genres perform in terms of total gross revenue
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/2fe3ad90-af8b-427a-9b3c-b323d545393c">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2fe3ad90-af8b-427a-9b3c-b323d545393c">
 
 
 - Corelation between rating and revenue
 
 We checked the average rating for each genre to see if higher-rated genres correlate with higher revenues using statistical methods as well as visualizations
+
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/0fb7e91d-e4f2-4be4-b2bd-e64b6405235e">
 
 Observation
 
