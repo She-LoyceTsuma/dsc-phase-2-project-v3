@@ -42,7 +42,7 @@ The genre with the least revenue is News and Western and Musicals
 The studio should prioritize creating films in the profitable genres to increase their chances of commercial success.
 
 
-<img width="760" alt="image" src="https://github.com/user-attachments/assets/a83d9903-b234-4e55-ac0b-f43107512cf9">
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/a83d9903-b234-4e55-ac0b-f43107512cf9">
 
 
 
@@ -52,14 +52,14 @@ The studio should prioritize creating films in the profitable genres to increase
 
 We analyze how different genres perform in terms of total gross revenue
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/2fe3ad90-af8b-427a-9b3c-b323d545393c">
+      <img width="500" alt="image" src="https://github.com/user-attachments/assets/2fe3ad90-af8b-427a-9b3c-b323d545393c">
 
 
 - Corelation between rating and revenue
 
 We checked the average rating for each genre to see if higher-rated genres correlate with higher revenues using statistical methods as well as visualizations
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/0fb7e91d-e4f2-4be4-b2bd-e64b6405235e">
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/0fb7e91d-e4f2-4be4-b2bd-e64b6405235e">
 
 Observation
 
@@ -72,7 +72,7 @@ The correlation coefficient of -0.29 suggests a weak negative relationship betwe
 We analyze the number of votes to gauge audience engagement with different genres,knowing which genres are popular will allow the studio and 
 distributors to tailor their marketing strategies,if a particular genre is trending, marketing campaigns can be focused on that genre to attract more viewers. 
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/c248183d-a65b-49b6-8f85-36a0e6095122">
+    <img width="1000" alt="image" src="https://github.com/user-attachments/assets/c248183d-a65b-49b6-8f85-36a0e6095122">
 
 
 Observation
@@ -83,6 +83,8 @@ The Scify and Adventure genres are very popular this means that the studio shoul
 - Runtime Analysis
   
 Investigated if there's a correlation between runtime and movie success through statistical methods.
+
+    <img width="600" alt="image" src="https://github.com/user-attachments/assets/02a1ef2a-bd9e-4866-8f09-2ba57bbf337a">
 
 Observation
 
