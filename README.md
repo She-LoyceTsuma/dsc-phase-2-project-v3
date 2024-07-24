@@ -72,7 +72,8 @@ The correlation coefficient of -0.29 suggests a weak negative relationship betwe
 We analyze the number of votes to gauge audience engagement with different genres,knowing which genres are popular will allow the studio and 
 distributors to tailor their marketing strategies,if a particular genre is trending, marketing campaigns can be focused on that genre to attract more viewers. 
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/e216bc67-c836-43f4-aad5-d97447ff556a">
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/c248183d-a65b-49b6-8f85-36a0e6095122">
+
 
 Observation
 
