@@ -125,6 +125,7 @@ Engagement Strategies:Use insights from audience engagement metrics to inform ma
 
 Strategically time movie releases during optimal periods to boost box office performance.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Conclusion
 By focusing on high-performing genres, leveraging emerging trends, understanding audience preferences, and strategically timing releases, the new movie studio can enhance its potential for commercial success.
 
