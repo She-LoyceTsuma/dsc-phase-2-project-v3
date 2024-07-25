@@ -1,16 +1,15 @@
 # Analysis for Maximizing Box Office Success in the Movie Industry
-
-
-
-
-
-
 ### Author: Loyce Tsuma
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 2024-07-24 133806](https://github.com/user-attachments/assets/a502a961-2319-4514-8c13-6f318b0a4646)
+
+
 ## Overview
 
 The exploratory data analysis aims to identify successful movie genres and trends to provide actionable recommendations for a new movie studio, enhancing box office success.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Business Problem
 
 1.Identify Top Genres: Determine which movie genres (e.g., action, comedy, drama) are currently leading at the box office to prioritize film production for commercial success.
@@ -18,6 +17,8 @@ The exploratory data analysis aims to identify successful movie genres and trend
 2.Recognize Emerging Trends: Spot new or growing trends in the movie industry to capitalize on popular categories by developing relevant films.
 
 3.Understand Audience Preferences: Analyze audience demographics and movie-going habits to tailor the film slate to the preferences of core target audiences.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### The Data
 
@@ -31,9 +32,12 @@ The distinct column(unique identifier) in this dataframe is the `movie_id`
 
 Data was cleaned and and stored in a file  `movie_data.csv` which details movie details in columns  `genres`,`original_title`,`start_year`,`runtime_minutes`	`averagerating`,`numvotes`,`studio`,`domestic_gross` and `foreign_gross`.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Findings
 
-* **Identifying Top-Performing Genres.**
+**Identifying Top-Performing Genres.**
+  
 There are 20 Genres
 
 The most profitable genre is Adventure,followed by Action,Drama,Comedy,Animation respectively
@@ -42,14 +46,25 @@ The genre with the least revenue is News and Western and Musicals
 
 The studio should prioritize creating films in the profitable genres to increase their chances of commercial success.
 
-* **Understanding Target Audience Preferences.**
+
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/a83d9903-b234-4e55-ac0b-f43107512cf9">
+
+
+
+**Understanding Target Audience Preferences.**
+  
 - Genre Popularity
 
 We analyze how different genres perform in terms of total gross revenue
 
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/2fe3ad90-af8b-427a-9b3c-b323d545393c">
+
+
 - Corelation between rating and revenue
 
 We checked the average rating for each genre to see if higher-rated genres correlate with higher revenues using statistical methods as well as visualizations
+
+  <img width="900" alt="image" src="https://github.com/user-attachments/assets/0fb7e91d-e4f2-4be4-b2bd-e64b6405235e">
 
 Observation
 
@@ -60,19 +75,21 @@ The correlation coefficient of -0.29 suggests a weak negative relationship betwe
 - Audience Engagement
 
 We analyze the number of votes to gauge audience engagement with different genres,knowing which genres are popular will allow the studio and 
+distributors to tailor their marketing strategies,if a particular genre is trending, marketing campaigns can be focused on that genre to attract more viewers. 
 
-distributors to tailor their marketing strategies,if a particular genre is trending, marketing campaigns can be focused on that genre to attract more
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/c248183d-a65b-49b6-8f85-36a0e6095122">
 
-viewers. 
 
 Observation
 
 The Scify and Adventure genres are very popular this means that the studio should focus on these two when doing targeted marketing
 
-* **Analyzing Emerging Market Trends.**
+**Analyzing Emerging Market Trends.**
 - Runtime Analysis
   
 Investigated if there's a correlation between runtime and movie success through statistical methods.
+
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/02a1ef2a-bd9e-4866-8f09-2ba57bbf337a">
 
 Observation
 
@@ -82,16 +99,21 @@ This positive relationship suggests that longer films tend to generate higher bo
 
 The regression equation can be summarized as:
 
-Total Gross=−77,657,490+1,615,703×Runtime Minutes
+Total Gross = −77,657,490+1,615,703×Runtime Minutes
 
 - Competitor Intelligence
   
 Observation
 BV,FOX,UNI,WB and Sony are the top 5 income generating studios this are the main competitors in the movie industry
 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f0c57f4e-2ffe-45ca-a270-0a7f0c9259d0">
+
+
 We also note that 2019 posted the lowest revenue and this could be attributed to Covid 19 pandemic,Generally the movie industry has been on an upward trajectory commercially
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/bff7d224-bed4-4d99-849f-4c2bfd181221">
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Recommendations
 
 1.To maximize commercial success, the new movie studio should prioritize creating films in top-performing genres like Adventure, Action, Drama, Comedy, and Animation
@@ -126,6 +148,7 @@ Engagement Strategies:Use insights from audience engagement metrics to inform ma
 
 Strategically time movie releases during optimal periods to boost box office performance.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Conclusion
 By focusing on high-performing genres, leveraging emerging trends, understanding audience preferences, and strategically timing releases, the new movie studio can enhance its potential for commercial success.
 
