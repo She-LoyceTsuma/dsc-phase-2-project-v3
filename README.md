@@ -32,7 +32,7 @@ The distinct column(unique identifier) in this dataframe is the `movie_id`
 
 Data was cleaned and and stored in a file  `movie_data.csv` which details movie details in columns  `genres`,`original_title`,`start_year`,`runtime_minutes`	`averagerating`,`numvotes`,`studio`,`domestic_gross` and `foreign_gross`.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Findings
 
@@ -132,7 +132,7 @@ Targeted marketing efforts should be directed towards these genres to attract au
 
 4.Consider runtime when developing scripts
 
-The analysis reveals a weak positive correlation between runtime and total gross revenue, suggesting that longer films may perform better.
+The analysis reveals a  positive correlation between runtime and total gross revenue, suggesting that longer films may perform better.
 
 The studio should consider this when developing scripts and production plans, aiming for runtimes that align with successful films in the targeted genres.
 
@@ -141,7 +141,9 @@ The studio should consider this when developing scripts and production plans, ai
 Monitor ratings and revenue correlation, recognizing its weak negative relationship and lack of statistical significance
 
 The observed weak negative correlation (-0.29) between average ratings and total gross revenue indicates that higher-rated movies do not necessarily lead to higher revenue.
+
 Statistical Significance: With a p-value of 0.19, the correlation is not statistically significant, suggesting that the relationship between ratings and revenue could be influenced by random chance. Therefore, while ratings are important, they should not be the sole determinant in film selection.
+
 The studio should focus on quality but also consider other factors, such as marketing and release timing, that can influence box office success.
 
 Engagement Strategies:Use insights from audience engagement metrics to inform marketing strategies, ensuring that promotional efforts are aligned with the preferences of the target demographic.
